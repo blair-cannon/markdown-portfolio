@@ -2,6 +2,6 @@
 2. Raspberry
 3. Strawberry
   
-  *Aussies
-  *Golden Retrievers 
-  *German Shepards
+ * Aussies
+ * Golden Retrievers 
+ * German Shepards
