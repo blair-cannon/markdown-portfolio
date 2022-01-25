@@ -1,1 +1,2 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+I love being **adventurous**. 🤠
+I have been *skydiving*, *white water rafting*, *rock climbing*, and plan to take on **more** adventures in my lifetime.
